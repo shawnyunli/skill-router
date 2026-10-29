@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill Router"
+  short_description: "Select the right installed skills for ambiguous tasks"
